@@ -12,7 +12,7 @@ We implemented **multiple clustering algorithms** to group customers into meanin
 
 ## 📂 Dataset
 
-* **Source**: [Online Retail Dataset (UCI/Kaggle)](https://archive.ics.uci.edu/ml/datasets/Online+Retail)
+* **Source**: [Customer Segmentation Dataset]([https://archive.ics.uci.edu/ml/datasets/Online+Retail](https://www.kaggle.com/datasets/yasserh/customer-segmentation-dataset))
 * **Size**: \~541,000 transactions
 * **Time Period**: December 2010
 * **Features Used**:
@@ -116,6 +116,6 @@ Contributions, issues, and feature requests are welcome. Feel free to check the 
 
 ## 📄 License
 
-This project is licensed under the **Apache 2=0.0**.
+This project is licensed under the **Apache 2=0**.
 
 ---
